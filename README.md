@@ -11,9 +11,6 @@ The CQRS pattern is applied by having separate command and query responsibilitie
 To install dependencies, we have to launch this command :
 * npm install
 
-To run project, we have to launch this command :
-* npm start
-
 To run tests, we have to launch this command :
 * npm test
 
